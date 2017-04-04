@@ -13,7 +13,7 @@ ENV PORT=4200 \
 RUN npm install -g typescript && \
     npm install -g webpack && \
     npm install -g webpack-dev-server && \
-    npm install -g angular-cli && \
+    npm install -g @angular/cli && \
     npm install -g mocha && \
     mkdir -p $PROJECT_DIR
 
