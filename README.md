@@ -233,7 +233,7 @@ We aim to make this software upto date, secured and at the same time provide mor
 
 If you can make some donations, then that will be great.
 
-[![Donate via PayPal](https://www.paypalobjects.com/webstatic/en_US/i/btn/png/silver-pill-paypal-44px.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VBJ4DJ5JUKRD2&lc=US&item_name=Contribution%20for%20Nodebeats%20Opensource%20CMS&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+[![Donate via PayPal](https://www.paypalobjects.com/webstatic/en_US/i/btn/png/silver-pill-paypal-44px.png)](https://www.paypal.me/bitsbeat)
 
 
 ## Sponsors
