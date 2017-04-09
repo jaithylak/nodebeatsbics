@@ -35,7 +35,7 @@ For api documentation, Check out the  [**API Documentation**](http://www.nodebea
     * Recommended Node version: >= v5.10.1, latest version is always better
 
 
-* Install Docker and Docker compose if not already installed **(Currently it doesn't support windows)**
+* Install Docker and Docker compose if not already installed **(Currently nodebeats docker configuration doesn't support windows)**
 
     You will have to install these separately. To know more about docker installation process, please follow the following link : [**https://docs.docker.com/engine/installation/**](https://docs.docker.com/engine/installation/) and choose appropriate Operating System platform.
     
