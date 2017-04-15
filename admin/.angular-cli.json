@@ -23,7 +23,7 @@
         "../node_modules/primeng/resources/themes/omega/theme.css",
         "../node_modules/primeng/resources/primeng.min.css",
         "assets/font-awesome/css/font-awesome.min.css",
-        "../node_modules/@angular/material/core/theming/prebuilt/deeppurple-amber.css",
+        "../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
         "assets/css/admin.css",
         "assets/css/common.css",
         "assets/css/custom.css",
