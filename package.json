@@ -6,7 +6,7 @@
   "apidoc": {
     "name": "nodebeats",
     "title": "Nodebeats Api Docs",
-    "url": "http://localhost:3000"
+    "url": "https://limitless-hamlet-43979.herokuapp.com/"
   },
   "main": "server.js",
   "directories": {
